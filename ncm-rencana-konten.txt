@@ -1,0 +1,6 @@
+RENCANA KONTEN NCM
+
+- Javascript
+- PHP Framework
+- Interview
+- Vlogs
