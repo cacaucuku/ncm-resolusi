@@ -1,6 +1,8 @@
 RENCANA KONTEN NCM
 
 - Javascript
+  * ES6
+  *.Framework JavaScript
 - PHP Framework
 - Interview
 - Vlogs
