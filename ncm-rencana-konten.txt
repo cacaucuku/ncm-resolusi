@@ -3,7 +3,9 @@ RENCANA KONTEN NCM
 - Javascript
   * ES6
   *.Framework JavaScript
-- Struktur Data Dasar
+   ^ Angular
+   ^ React
 - PHP Framework
+ ^ Laravel
 - Interview
 - Vlogs
